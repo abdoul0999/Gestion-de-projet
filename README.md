@@ -1,9 +1,9 @@
 # AscendIA — Career Copilot
 
-> "Climb Smarter" — Assistant IA de carrière pour jeunes diplômés français
+> "Climb Smarter" - Assistant IA de carrière pour jeunes diplômés français
 
-Projet universitaire réalisé à l'Université Paris-Saclay — Groupe 06  
-**Équipe :** Mohammed ZEROUAL · Lisa KHETTAB · Jana CHEHWAN · Abdoul DIALLO · Maha BENGRAB
+Projet universitaire - Groupe 06  
+**Équipe :** Mohammed ZEROUAL - Lisa KHETTAB - Jana CHEHWAN - Abdoul DIALLO - Maha BENGRAB
 
 ---
 
