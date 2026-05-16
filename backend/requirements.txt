@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+sqlalchemy==2.0.40
+PyJWT==2.8.0
+bcrypt>=4.0.0
+python-multipart==0.0.20
+pdfplumber==0.11.6
+openai==1.75.0
+python-dotenv==1.1.0
+pydantic[email]>=2.11.3
+aiofiles==24.1.0
