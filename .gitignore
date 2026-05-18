@@ -9,6 +9,7 @@ backend/venv/
 
 # ── Frontend ──────────────────────────────────────────────────────────────────
 frontend/build/
+!frontend/build/web/
 frontend/.dart_tool/
 frontend/.flutter-plugins
 frontend/.flutter-plugins-dependencies
