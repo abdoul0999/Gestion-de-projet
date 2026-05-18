@@ -1,3 +1,4 @@
-FROM nginx:alpine
-COPY build/web /usr/share/nginx/html
-EXPOSE 80
+FROM python:3.11-slim
+WORKDIR /app
+COPY build/web .
+CMD python -m http.server $PORT
