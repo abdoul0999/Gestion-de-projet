@@ -1,4 +1,4 @@
 FROM python:3.11-slim
 WORKDIR /app
 COPY build/web .
-CMD python -m http.server $PORT
+CMD sh -c "python -m http.server ${PORT:-8080} --bind 0.0.0.0"
